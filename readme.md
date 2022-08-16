@@ -1,4 +1,6 @@
 # Note-Taker
+## Description:
+This is a simple note taker application that allows users to add, view saved notes and delete any particular note .This application uses an express server to save and retrieve note data from a JSON file.
 
 # Usage :
 
@@ -19,8 +21,11 @@ node server.js
 * Open browser and type `http://localhost:3001/` to run this application on your local machine.
 
 
-# Description:
-This is a simple note taker application that allows users to add, view saved notes and delete any particular note .This application uses an express server to save and retrieve note data from a JSON file.
+# Demo :
+![Note Taker]
+<img src="./demo/savingnotes.png">
+<img src="./demo/viewnotes.png">
+
 
 # User Story
 
